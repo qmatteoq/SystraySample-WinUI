@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "SystraySample (Package)", "SystraySample\SystraySample (Package)\SystraySample (Package).wapproj", "{00A3948A-3858-41F5-A6E2-466D543CA8F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystraySample", "SystraySample\SystraySample\SystraySample.csproj", "{040388E0-C44A-45CB-A1D3-9CF46D63F670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x64.ActiveCfg = Debug|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x64.Build.0 = Debug|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x64.Deploy.0 = Debug|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x86.ActiveCfg = Debug|x86
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x86.Build.0 = Debug|x86
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Debug|x86.Deploy.0 = Debug|x86
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x64.ActiveCfg = Release|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x64.Build.0 = Release|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x64.Deploy.0 = Release|x64
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x86.ActiveCfg = Release|x86
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x86.Build.0 = Release|x86
+		{00A3948A-3858-41F5-A6E2-466D543CA8F4}.Release|x86.Deploy.0 = Release|x86
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Debug|x64.ActiveCfg = Debug|x64
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Debug|x64.Build.0 = Debug|x64
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Debug|x86.ActiveCfg = Debug|x86
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Debug|x86.Build.0 = Debug|x86
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Release|x64.ActiveCfg = Release|x64
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Release|x64.Build.0 = Release|x64
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Release|x86.ActiveCfg = Release|x86
+		{040388E0-C44A-45CB-A1D3-9CF46D63F670}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DB207DB-271E-4EB1-98BA-1238D6997E53}
+	EndGlobalSection
+EndGlobal
